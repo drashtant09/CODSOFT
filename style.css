@@ -20,4 +20,20 @@ font-family: 'Open Sans', sans-serif;*/
     color: white;
     padding: 4px 8px;
     background: #d88527;
+}  
+
+.nav2{
+    width: 100%;
+    height: 80%;
+    background: white;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 60px;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
 }
